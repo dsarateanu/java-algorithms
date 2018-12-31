@@ -1,4 +1,4 @@
-package com.home.algorithms.heap;
+package com.home.datastructures.heap;
 
 public class Main {
 
